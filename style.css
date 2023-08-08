@@ -1,0 +1,56 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+main{
+    background-color: #7EAA92;
+}
+nav {
+    margin: 0%;
+    padding: 3%;
+    background-color: #FFD9B7;
+}
+.table tr,td{
+    text-decoration: underline;
+    text-align: center;
+    font-size: large;
+    width: 50px;
+}
+.flex {
+    display: flex;
+}
+.about-me{
+    padding: 6%;
+}
+h1{
+    text-decoration: underline;
+}
+.side {
+    margin: 3%;
+}
+.box1 {
+    margin: 2%;
+    width: 50%;
+    margin-left: 30%;
+}
+.projects {
+    margin: 3%;
+    padding: 3%;
+}
+.projects img{
+    width: 50%;
+    height: 50%;
+    margin: 2%;
+}
+footer  {
+    background-color: #FFD9B7;
+    margin: 0%;
+}
+.contact li,h1{
+    text-align: center;
+    margin: 0.5%;
+    padding: 0.5%;
+}
+.foot p,i{
+    margin: 2%;
+    padding: 2%;
+}
